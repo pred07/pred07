@@ -42,9 +42,3 @@
 <img src="https://i.imgur.com/pQT0l.gif" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Najas06/count.svg?"  />
-</div>
-
-###
