@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Brijith K Biju. A Cybersecurity Researcher from India</h2>
+<h2 align="left">Hi 👋! My name is Brijith. A Cybersecurity Researcher from India</h2>
 
 ###
 
